@@ -14,3 +14,7 @@
 	path = third_party/vivace
 	url = https://github.com/StanfordSNR/vivace.git
 	ignore = dirty
+[submodule "third_party/PDCC"]
+	path = third_party/PDCC
+	url = https://github.com/ZoraNeverEatFish/PDCC.git
+	ignore = dirty
