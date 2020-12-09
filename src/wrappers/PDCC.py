@@ -21,7 +21,7 @@ def main(delta_conf):
         return
 
     if args.option == 'setup':
-        check_call(['makepp'], cwd=cc_repo)
+        
         return
 
     if args.option == 'receiver':
